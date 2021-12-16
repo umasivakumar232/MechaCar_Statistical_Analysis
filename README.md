@@ -1,5 +1,7 @@
 # MechaCar_Statistical_Analysis
 
+![1200X628_1200X628_crop_e158717b10b7c79082e001d3c6fd4902](https://user-images.githubusercontent.com/85518330/146296044-e4472a41-f623-4792-a606-d8b2b1215e8b.png)
+
 ## Overview
 
 In this challenge, we help Jeremy and the data analytics team do the following:
